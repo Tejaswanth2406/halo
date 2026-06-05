@@ -1,0 +1,20 @@
+"""Golden evaluation dataset (built on day 1)"""
+{
+  "version": "1.0",
+  "created": "2024-01-01",
+  "queries": [
+    {
+      "id": "q001",
+      "query": "What is the capital of France?",
+      "expected_answer": "Paris",
+      "sources": ["geography_facts.md"],
+      "difficulty": "easy",
+      "category": "factual_qa"
+    }
+  ],
+  "metrics_baseline": {
+    "ragas": 0.85,
+    "context_precision": 0.92,
+    "context_recall": 0.88
+  }
+}
