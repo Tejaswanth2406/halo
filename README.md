@@ -1,3 +1,5 @@
+<img width="1876" height="838" alt="image" src="https://github.com/user-attachments/assets/6af7f8c8-acfc-4eb9-a086-94aa5381bd87" />
+
 # RAG Production System
 
 Enterprise-grade Retrieval Augmented Generation (RAG) system with advanced features including multi-agent orchestration, comprehensive guardrails, and emerging evaluation benchmarks.
